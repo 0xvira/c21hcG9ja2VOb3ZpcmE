@@ -12,89 +12,72 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Novira =====
-[1]Novira      |12:33:44 | 13-10-2026| login OK @mnoviraa | score=1010 rank=6233
-[1]Novira      |12:33:44 | 13-10-2026| serverTime=2026-10-13T12:33:44.000Z local=2026-10-13T12:33:44.971Z
+[1]Novira      |10:01:18 | 14-10-2026| login OK @mnoviraa | score=1140 rank=5298
+[1]Novira      |10:01:18 | 14-10-2026| serverTime=2026-10-14T10:01:18.000Z local=2026-10-14T10:01:18.129Z
 --> [1]Novira menjalankan: Claim Daily
-[1]Novira      |12:33:46 | 13-10-2026| daily: OK +10 poin score=1020
---> [1]Novira menjalankan: Auto All Tasks (12 pending)
-[1]Novira      |12:33:48 | 13-10-2026| [1/12] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/mnoviraa/status/2109985414947096280
-[1]Novira      |12:33:48 | 13-10-2026| delay 10s...
-[1]Novira      |12:34:01 | 13-10-2026| [2/12] c0692622 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/mnoviraa/status/2109985408137048445
-[1]Novira      |12:34:01 | 13-10-2026| delay 10s...
-[1]Novira      |12:34:14 | 13-10-2026| [3/12] b1aa7a09 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/mnoviraa/status/2109985739562291178
-[1]Novira      |12:34:14 | 13-10-2026| delay 10s...
-[1]Novira      |12:34:29 | 13-10-2026| [4/12] c3c2f662 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/mnoviraa/status/2109985536182523116
-[1]Novira      |12:34:29 | 13-10-2026| delay 10s...
-[1]Novira      |12:34:42 | 13-10-2026| [5/12] fa907706 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/mnoviraa/status/2109985766487114273
-[1]Novira      |12:34:42 | 13-10-2026| delay 10s...
-[1]Novira      |12:34:55 | 13-10-2026| [6/12] f3c57454 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
-[1]Novira      |12:34:55 | 13-10-2026| delay 10s...
-[1]Novira      |12:35:07 | 13-10-2026| [7/12] 446fd4f4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/mnoviraa/status/2109985796407792093
-[1]Novira      |12:35:07 | 13-10-2026| delay 10s...
-[1]Novira      |12:35:20 | 13-10-2026| [8/12] cbf91691 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/mnoviraa/status/2109986055363098514
-[1]Novira      |12:35:20 | 13-10-2026| delay 10s...
-[1]Novira      |12:35:33 | 13-10-2026| [9/12] 484fa559 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/mnoviraa/status/2109985911795798857
-[1]Novira      |12:35:33 | 13-10-2026| delay 10s...
-[1]Novira      |12:35:46 | 13-10-2026| [10/12] 7411ef73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/mnoviraa/status/2109985824890128127
-[1]Novira      |12:35:46 | 13-10-2026| delay 10s...
-[1]Novira      |12:35:58 | 13-10-2026| [11/12] 65e97767 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
-[1]Novira      |12:35:58 | 13-10-2026| delay 10s...
-[1]Novira      |12:36:11 | 13-10-2026| [12/12] 34f1e829 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
-[1]Novira      |12:36:11 | 13-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Novira      |12:36:13 | 13-10-2026| [1/1] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/mnoviraa/status/2109985993153248319
+[1]Novira      |10:01:19 | 14-10-2026| daily: OK +10 poin score=1150
+--> [1]Novira menjalankan: Auto All Tasks (4 pending)
+[1]Novira      |10:01:21 | 14-10-2026| [1/4] 2f4050f7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/mnoviraa/status/2110309666454160441
+[1]Novira      |10:01:21 | 14-10-2026| delay 10s...
+[1]Novira      |10:01:33 | 14-10-2026| [2/4] 8dd1f57c (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Novira      |10:01:33 | 14-10-2026| delay 10s...
+[1]Novira      |10:01:45 | 14-10-2026| [3/4] 039113e7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/mnoviraa/status/2110309741592807168
+[1]Novira      |10:01:45 | 14-10-2026| delay 10s...
+[1]Novira      |10:01:58 | 14-10-2026| [4/4] b3500764 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/mnoviraa/status/2110309817738555913
+[1]Novira      |10:01:58 | 14-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Novira      |10:01:59 | 14-10-2026| [1/1] 2f4050f7 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/mnoviraa/status/2110309645989757091
 --> [1]Novira menjalankan: Watch Anime
-[1]Novira      |12:36:14 | 13-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
-[1]Novira      |12:36:14 | 13-10-2026| watch [1/3] farming oshi-captains-hat...
+[1]Novira      |10:02:00 | 14-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
+[1]Novira      |10:02:00 | 14-10-2026| watch [1/3] farming oshi-captains-hat...
   video baru dikenal: oshi-captains-hat (katalog +4)
-[1]Novira      |12:36:17 | 13-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Novira      |12:36:22 | 13-10-2026| watch [2/3] farming oshi-rainbow-star...
-[1]Novira      |12:36:24 | 13-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Novira      |12:36:29 | 13-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
-[1]Novira      |12:36:31 | 13-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+[1]Novira      |10:02:03 | 14-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Novira      |10:02:08 | 14-10-2026| watch [2/3] farming oshi-rainbow-star...
+[1]Novira      |10:02:11 | 14-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Novira      |10:02:16 | 14-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
+[1]Novira      |10:02:17 | 14-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
 --> [1]Novira menjalankan: Read Article
-[1]Novira      |12:36:33 | 13-10-2026| news: 24/24 artikel selesai dibaca
-[1]Novira      |12:36:34 | 13-10-2026| mint eligibility: {"userId":"1888269360403529729","youtube":{"url":"https://www.youtube.com/@mnovira","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"automaticReady
-[1]Novira      |12:36:34 | 13-10-2026| news: semua artikel sudah dibaca
+[1]Novira      |10:02:18 | 14-10-2026| news: 24/25 artikel selesai dibaca
+[1]Novira      |10:02:19 | 14-10-2026| mint eligibility: {"userId":"1888269360403529729","youtube":{"url":"https://www.youtube.com/@mnovira","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"automaticReady
+[1]Novira      |10:02:25 | 14-10-2026| news [1/1] 5c5bca9d-4991-4e23-918b-9b13cd2245c8: OK completed=25
 --> [1]Novira menjalankan: Quiz Anime
-[1]Novira      |12:36:34 | 13-10-2026| quiz ep1: sudah dijawab
-[1]Novira      |12:36:34 | 13-10-2026| quiz ep2: sudah dijawab
-[1]Novira      |12:36:34 | 13-10-2026| quiz ep3: sudah dijawab
-[1]Novira      |12:36:34 | 13-10-2026| quiz ep4: sudah dijawab
-[1]Novira      |12:36:34 | 13-10-2026| quiz ep5: sudah dijawab
-[1]Novira      |12:36:34 | 13-10-2026| quiz ep6: sudah dijawab
+[1]Novira      |10:02:28 | 14-10-2026| quiz ep1: sudah dijawab
+[1]Novira      |10:02:28 | 14-10-2026| quiz ep2: sudah dijawab
+[1]Novira      |10:02:28 | 14-10-2026| quiz ep3: sudah dijawab
+[1]Novira      |10:02:28 | 14-10-2026| quiz ep4: sudah dijawab
+[1]Novira      |10:02:28 | 14-10-2026| quiz ep5: sudah dijawab
+[1]Novira      |10:02:28 | 14-10-2026| quiz ep6: sudah dijawab
 --> [1]Novira menjalankan: Music Missions (realtime, bisa lama!)
-[1]Novira      |12:36:37 | 13-10-2026| music: kedua misi sudah tercapai, stop
-[1]Novira      |12:36:38 | 13-10-2026| mission music-listens-10: sudah diklaim
-[1]Novira      |12:36:38 | 13-10-2026| mission music-minutes-30: sudah diklaim
-[1]Novira      |12:36:38 | 13-10-2026| mission anime-completed-3: sudah diklaim
+[1]Novira      |10:02:31 | 14-10-2026| music: kedua misi sudah tercapai, stop
+[1]Novira      |10:02:31 | 14-10-2026| mission music-listens-10: sudah diklaim
+[1]Novira      |10:02:31 | 14-10-2026| mission music-minutes-30: sudah diklaim
+[1]Novira      |10:02:31 | 14-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Novira menjalankan: Claim Missions
-[1]Novira      |12:36:38 | 13-10-2026| mission music-listens-10: sudah diklaim
-[1]Novira      |12:36:38 | 13-10-2026| mission music-minutes-30: sudah diklaim
-[1]Novira      |12:36:38 | 13-10-2026| mission anime-completed-3: sudah diklaim
+[1]Novira      |10:02:31 | 14-10-2026| mission music-listens-10: sudah diklaim
+[1]Novira      |10:02:31 | 14-10-2026| mission music-minutes-30: sudah diklaim
+[1]Novira      |10:02:31 | 14-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Novira menjalankan: Check Eligibility
 
 --- eligibility [1]Novira ---
-  @mnoviraa | score=1010 rank=6233
-  tasks    [#################---] 66/78
+  @mnoviraa | score=1140 rank=5298
+  tasks    [###################-] 75/79
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [####################] 6/6
   watch    [####################] 18/17
   music    [####################] 11/11
-  artikel  [####################] 24/24
+  artikel  [####################] 25/25
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Novira menjalankan: Read Manga
-[1]Novira      |12:36:45 | 13-10-2026| manga: 0/13 chapter belum completed
+[1]Novira      |10:02:35 | 14-10-2026| manga: 0/13 chapter belum completed
 --> [1]Novira menjalankan: Get Gift
-[1]Novira      |12:36:46 | 13-10-2026| gift: 1/4 belum diterima
-[1]Novira      |12:36:48 | 13-10-2026| gift [1/1] Silver Oshii: OK
+[1]Novira      |10:02:35 | 14-10-2026| gift: 0/4 belum diterima
 --> [1]Novira menjalankan: Setup Profile
-[1]Novira      |12:36:51 | 13-10-2026| profile: bio="https://x.com/mnoviraa" fav=amato rewardAt=1791684557
-[1]Novira      |12:36:51 | 13-10-2026| profile: bonus sudah diklaim, skip
+[1]Novira      |10:02:36 | 14-10-2026| profile: bio="https://x.com/mnoviraa" fav=amato rewardAt=1791684557
+[1]Novira      |10:02:36 | 14-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Novira menjalankan: Bind Wallet
-[1]Novira      |12:36:51 | 13-10-2026| wallet: sudah terikat 4ZNAq7ciQb... (solana)
+[1]Novira      |10:02:36 | 14-10-2026| wallet: sudah terikat 4ZNAq7ciQb... (solana)
 
 == RINGKASAN ==
-- Novira: daily=claimed | tasks OK 13/13 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/4 diterima | profile - | wallet bound | mint req=false open=false
+- Novira: daily=claimed | tasks OK 5/5 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 1 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
